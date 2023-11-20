@@ -22,7 +22,7 @@
 <img align="right" src="https://github.com/rey-arx/rey-arx/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :smile:  Hello! My name is <em>Mohamed Ali Raihan M</em> and I'm an aspiring growing programmer 💮 in software engineering.
+- :smile:  Hello! My name is <em>Mohamed Ali Raihan</em> and I'm an aspiring growing programmer 💮 in software engineering.
 - :wink:   I have a keen interest in `Augmented reality , Web Developemnt , Backend Programming`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `LeetCode ,coding Ninjas`.
